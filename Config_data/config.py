@@ -24,6 +24,5 @@ def load_config(path: str | None = None) -> Config:
             token=env('BOT_TOKEN')
             # token=env.str('BOT_TOKEN')
             # token=env(BOT_TOKEN)
-            # token='6691110174:AAEVRgqNL5Wp5fzOVjRBl90_blfakuXTzYA'
                      )
     )
